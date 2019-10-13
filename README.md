@@ -1,2 +1,2 @@
 # dataoptimal.github.io
-Data Science Portfoli
+Data Science Portfolio
